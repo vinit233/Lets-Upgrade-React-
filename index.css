@@ -1,0 +1,13 @@
+
+.one{
+    padding: 20px 20px ;
+    background-color: rgb(0, 87, 130);
+    color: rgb(87, 221, 29);
+    border-radius: 20px;
+}
+.two{
+    padding: 20px 20px ;
+    background-color: indigo;
+    color: lightcoral;
+    border-radius: 20px;
+}
